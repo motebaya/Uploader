@@ -20,7 +20,6 @@ example:
 ./main.py -f yourfile -s anonfiles
 ````
 
-loader get it from [here](https://stackoverflow.com/questions/22029562/python-how-to-make-simple-animated-loading-while-process-is-running)  
 i don't know how to add progress uploader bar with tqdm  
 for some website like httpbin its posible,  
 but in this case some site like zippyshare have multipart form data  
